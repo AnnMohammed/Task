@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  ITRootsTask
+
+  Created by Ann on 27/03/2025.
+  
+*/
+"User name" = "اسم المستخدم";
+"LogOut" = "تسجيل الخروج";
+"Change Language" = "تغيير اللغه";
+"Don't have an account?" = "ليس لديك حساب ؟";
+" Sign up" = "سجل الآن";
+"Welcome" = "مرحبا";
+"user" = "مستخدم";
+"LOGIN" = "تسجيل الدخول";
+"Password" = "كلمه المرور";
